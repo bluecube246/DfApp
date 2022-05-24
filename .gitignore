@@ -1,2 +1,3 @@
-/app/src/main/assets/
-/app/build/
+app/src/main/assets/
+app/build/
+app/build/intermediates/.DS_Store
