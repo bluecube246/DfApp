@@ -1,0 +1,1 @@
+f0d7f1f87816aaaa327586ff5d833726eff2194a 473 local.properties
