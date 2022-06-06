@@ -79,7 +79,7 @@ class Tokenizer (context: Context, assetName: String){
 
         val token_type_ids = LongArray(50){ _ -> 0}
 
-        val intent_id = longArrayOf(2)
+        val intent_id = longArrayOf(1)
 
         val slot_id = longArrayOf(0, 5,  0, 5, 5,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
             0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
