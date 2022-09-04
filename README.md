@@ -4,3 +4,6 @@ This application uses Korean BERT to hep users get image and information about a
 
 https://user-images.githubusercontent.com/35375203/188326134-3aff13e0-bb39-4d21-b6f7-f16c4dba1018.mp4
 
+# Reference
+
+https://github.com/monologg/JointBERT
