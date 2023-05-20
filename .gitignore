@@ -2,3 +2,4 @@ app/src/main/assets/
 app/build/
 .DS_Store
 local.properties
+bfg-1.14.0.jar
